@@ -1,0 +1,29 @@
+.dashboard {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    gap: 2rem;
+}
+
+.widget {
+    background: white;
+    padding: 1.2rem;
+    border-radius: 8px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+}
+
+.progress-bar {
+    background-color: #e5e7eb;
+    border-radius: 20px;
+    overflow: hidden;
+    height: 20px;
+    margin-top: 0.5rem;
+}
+
+.progress-bar span {
+    display: block;
+    height: 100%;
+    background-color: #3b82f6;
+    color: white;
+    text-align: center;
+    font-size: 0.9rem;
+}
