@@ -1,4 +1,4 @@
-```markdown
+
 # 🏫 High School E-Learning Platform
 
 A comprehensive web-based e-learning system designed for high schools to manage courses, assessments, communication, and student progress using modern tools and responsive design.
@@ -159,4 +159,4 @@ For feedback, bug reports, or collaboration:
 📧 `collooceo@gmail.com`
 
 ```
-```
+
